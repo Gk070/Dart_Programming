@@ -1,14 +1,12 @@
-# Dart Programming Exercises - Infosys Springboard  
-This repository contains exercises and solutions from the **Infosys Springboard Dart Programming Course**.  
+Dart Programming Exercises - Infosys Springboard
+Welcome to my collection of Dart programming exercises from the Infosys Springboard Dart Course! 🚀
 
-📘 About  
-These exercises cover foundational concepts of Dart, including:  
-- Syntax and variables  
-- Control structures  
-- Functions and classes  
-- Collections and more  
+📘 What’s Inside:
+Basic Dart syntax & variables
+Control structures (if, loops, etc.)
+Functions, classes, and more
+Collections and data manipulation
+💻 Why This Repository?
+I’m using this space to sharpen my Dart skills and track my progress. It’s a great reference for anyone learning Dart too!
 
-💻 Purpose  
-Aimed at enhancing my skills in Dart programming, this repository serves as a reference for my learning journey.  
-
-Feel free to explore, learn, and provide feedback! 🌟  
+Explore, learn, and feel free to share your thoughts! 🌟
